@@ -19,19 +19,19 @@ Todos os textos aqui produzidos possuem estas características:
 
 # Índice
 
-1. [Qt - Breve História](https://github.com/vcputtini/guia-qt6/tree/main/docs/README_Qt_Breve_Historia.md)
-2. [Fundamentos - SOLID, RAII e Clean Code](https://github.com/vcputtini/guia-qt6/tree/main/docs/README_SOLID_RAII_CLEANCODE.md)
-3. [Entendendo o Conceito de SIGNAL & SLOTS - Parte 1](https://github.com/vcputtini/guia-qt6/tree/main/docs/README_SIGNALS_SLOTS_PART_1.md)
-4. [Entendendo o Conceito de SIGNAL & SLOTS - Parte 2](https://github.com/vcputtini/guia-qt6/tree/main/docs/README_SIGNALS_SLOTS_PART_2.md)
-5. [Entendendo o Conceito de SIGNAL & SLOTS - Parte 3](https://github.com/vcputtini/guia-qt6/tree/main/docs/README_SIGNALS_SLOTS_PART_3.md)
-6. [Concorrência e Programação Assíncrona em Qt6](https://github.com/vcputtini/guia-qt6/tree/main/docs/README_Qt_Concorrencias.md)
-7. [Usando QString no Qt 6.10+ e C++ Moderno](https://github.com/vcputtini/guia-qt6/tree/main/docs/README_QString.md)
-8. [QDebug() - Depuração em Tempo de Execução](https://github.com/vcputtini/guia-qt6/tree/main/docs/README_QDebug.md)
+1. [Qt - Breve História](https://github.com/vcputtini/guia-qt6/docs/README_Qt_Breve_Historia.md)
+2. [Fundamentos - SOLID, RAII e Clean Code](https://github.com/vcputtini/guia-qt6/docs/README_SOLID_RAII_CLEANDCODE.md)
+3. [Entendendo o Conceito de SIGNAL & SLOTS - Parte 1](https://github.com/vcputtini/guia-qt6/docs/README_SIGNALS_SLOTS_PART1.md)
+4. [Entendendo o Conceito de SIGNAL & SLOTS - Parte 2](https://github.com/vcputtini/guia-qt6/docs/README_SIGNALS_SLOTS_PART2.md)
+5. [Entendendo o Conceito de SIGNAL & SLOTS - Parte 3](https://github.com/vcputtini/guia-qt6/docs/README_SIGNALS_SLOTS_PART3.md)
+6. [Concorrência e Programação Assíncrona em Qt6](https://github.com/vcputtini/guia-qt6/docs/README_Qt_Concorrencias.md)
+7. [Usando QString no Qt 6.10+ e C++ Moderno](https://github.com/vcputtini/guia-qt6/docs/README_QString.md)
+8. [QDebug() - Depuração em Tempo de Execução](https://github.com/vcputtini/guia-qt6/docs/README_QDebug.md)
 
 
 ##**LICENSE**  
 
-[Clique aqui](https://github.com/vcputtini/guia-qt6/tree/main/LICENSE.md)
+[Clique aqui](https://github.com/vcputtini/guia-qt6/LICENSE.md)
 
 ##**Créditos**
 
