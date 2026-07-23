@@ -1,0 +1,17 @@
+# Ignorar scripts shell
+*.sh
+
+# Ignorar arquivos de backup e versões antigas
+*.old
+*-old
+
+# Ignorar arquivos de texto e dados
+*.txt
+*.dat
+
+# Ignorar arquivos contendo "teste" no nome
+*teste*
+
+# Ignorar arquivos iniciados por "0-"
+0-*
+0-textos/*

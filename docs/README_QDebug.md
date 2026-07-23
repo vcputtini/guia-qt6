@@ -1,5 +1,5 @@
 # Usando qDebug para Depuração em Tempo de Execução no Qt6
-## Um Guia Técnico de Registro de Logs, Formatação e Customização de Tipos
+## Registro de Logs, Formatação e Customização de Tipos
 
 No desenvolvimento de sistemas industriais, gerenciamento de servidores e de interfaces gráficas complexas utilizando o ecossistema Qt6, acompanhar o fluxo de execução e inspecionar o estado interno de objetos em tempo de execução é uma atividade crucial. Embora depuradores interativos (como GDB ou LLDB) sejam ferramentas indispensáveis, existem cenários onde o diagnóstico por meio de registros de log estruturados na console ou em arquivos físicos se mostra mais produtivo e menos intrusivo. A biblioteca Qt Core fornece uma infraestrutura muito sólida para essa finalidade, centralizada na classe `QDebug` e nas funções globais de logging. 
 

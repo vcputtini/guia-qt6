@@ -1,9 +1,9 @@
 # Fundamentos de Arquitetura de Software: SOLID, RAII e Clean Code
-## Um Guia de Referência Prática para Desenvolvedores em Início de Carreira
 
-No início da carreira como desenvolvedor, é comum focar apenas em fazer o código funcionar. No entanto, em ambientes profissionais e sistemas de produção, fazer o código funcionar é apenas o primeiro passo. O verdadeiro desafio da engenharia de software é garantir que o código continue funcionando, seja compreensível para outros programadores e possa ser alterado sem quebrar outras partes do sistema.
-
-A adoção de boas práticas de programação não é uma exigência acadêmica burocrática, mas uma necessidade pragmática para evitar o acúmulo de débito técnico. Este documento apresenta três pilares fundamentais para escrever códigos resilientes: os princípios **SOLID**, o padrão **RAII** e as regras de **Clean Code**.
+Quando iniciamos nossa carreira de desenvolvedor geralmente focamos em fazer o código funcionar, sem termos grandes preocupações com padrões ou técnicas.
+Mas com o tempo nos damos conta de que o grande desafio é fazer com que o código continue funcionando, apesar das mudanças, e garantir que outros programadores
+possam dar manutenção sem quebrar o sistema todo ou suas partes.
+Desse modo, a adoção de boas práticas de programação não é uma exigência acadêmica burocrática, mas uma necessidade pragmática para evitar o acúmulo de débito técnico. Este documento apresenta três pilares fundamentais para escrever códigos resilientes: os princípios **SOLID**, o padrão **RAII** e as regras de **Clean Code**.
 
 ---
 
